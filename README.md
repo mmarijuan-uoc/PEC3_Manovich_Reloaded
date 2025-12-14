@@ -1,4 +1,4 @@
-# PEC3_Manovich_Reloaded: Amazon Go y BeReal como híbridos contemporáneosx
+# PEC3_Manovich_Reloaded: Amazon Go y BeReal como híbridos contemporáneos
 ## Cultura Digital – UOC
 ---
 ## Índice
