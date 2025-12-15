@@ -1,7 +1,7 @@
 # PEC3 – Manovich Reloaded: Amazon Go y BeReal como híbridos contemporáneos  
-## Grado de Multimedia - UOC (2025)
-## 20.644 - Cultura Digital (Aula 1)
-### Alumno: Mariano Marijuán Ruiz
+### Grado de Multimedia - UOC (2025)
+### 20.644 - Cultura Digital (Aula 1)
+Alumno: Mariano Marijuán Ruiz
 
 ---
 
