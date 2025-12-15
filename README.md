@@ -1,11 +1,11 @@
 # PEC3 – Manovich Reloaded: Amazon Go y BeReal como híbridos contemporáneos  
 ## Grado de Multimedia - UOC (2025)
-### 20.644 - Cultura Digital (Aula 1)
-Autor: Mariano Marijuán Ruiz
+## 20.644 - Cultura Digital (Aula 1)
+### Alumno: Mariano Marijuán Ruiz
 
 ---
 
-## 🧭 Índice
+## Índice
 1. [Introducción](#introducción)  
 2. [Caso 1: Amazon Go – Cuando la tienda física se convierte en un algoritmo](#caso-1-amazon-go--cuando-la-tienda-física-se-convierte-en-un-algoritmo)  
 3. [Caso 2: BeReal – Autenticidad programada y temporalidad algorítmica](#caso-2-bereal--autenticidad-programada-y-temporalidad-algorítmica)  
