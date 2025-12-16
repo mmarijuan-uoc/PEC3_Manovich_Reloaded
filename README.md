@@ -17,78 +17,87 @@ Alumno: Mariano Marijuán Ruiz
 
 # Introducción
 
-Vivimos rodeados de medios híbridos: experiencias que mezclan lo físico y lo digital, que se apoyan en software para convertir acciones cotidianas en procesos automatizados y datos computables. Tal y como plantea Lev Manovich (2013), “el software toma el mando”, reorganizando nuestras prácticas culturales y fusionando antiguas formas de interacción en nuevas lógicas mediadas por algoritmos. Esta hibridación no es un fenómeno aislado; es la forma dominante de los medios contemporáneos.
+Vivimos rodeados de medios híbridos, experiencias que mezclan lo físico y lo digital y que están apoyadas en un software diseñado para convertir las acciones cotidianas en información procesable mediante procesos automatizados. Siguiendo la tesis de Lev Manovich en *El software toma el mando* (2013), el software no solo representa sino que reorganiza nuestras prácticas culturales y fusiona antiguas formas de interacción en nuevas lógicas estructuradas por los algoritmos. 
 
-En este ensayo exploro dos casos actuales que ilustran esta transformación: **Amazon Go**, un supermercado sin cajas donde “comprar” se convierte en un acto casi transparente, y **BeReal**, una red social que redefine la fotografía cotidiana mediante una lógica algorítmica de inmediatez. Ambos ejemplos muestran cómo el software no solo añade funciones, sino que **reconfigura la experiencia**, automatiza decisiones, redefine temporalidades y convierte actividades humanas tradicionales en procesos digitales modulares.
+En este ensayo exploro dos casos que ilustran esta transformación: 
+- **Google Lens** es una herramienta de reconocimiento visual que permite identificar objetos, textos, plantas, animales, productos y lugares con solo apuntar la cámara de nuestro dispositivo.
+- **BeReal** es una red social que anima a los usuarios a compartir imágenes de lo que estén haciendo en tiempo real. Una de sus peculiaridades es que no podremos ver las publicaciones de los demás hasta que no publiquemos la nuestra.
 
-Mientras Amazon Go hibrida la tienda física con visión artificial, sensores y sistemas automáticos de pago, BeReal combina la fotografía clásica con una programación del tiempo que determina cuándo capturar y compartir la experiencia. Dos casos distintos, pero unidos por el mismo fenómeno: la cultura digital como producto de la **fusión entre medios previos y la lógica informática**.
-
----
-
-# Caso 1: Amazon Go – Cuando la tienda física se convierte en un algoritmo
-
-Amazon Go es un ejemplo paradigmático de cómo una práctica cotidiana —ir al supermercado— se transforma en un proceso gobernado por software. Al entrar en la tienda, el usuario escanea su app, toma productos y sale sin pasar por caja. Parece sencillo, pero detrás hay un entramado tecnológico que convierte el espacio físico en un entorno completamente mediado por datos.
-
-La propuesta de Amazon hibrida distintos elementos: cámaras de visión artificial, sensores de peso en estanterías, machine learning y un sistema de pago automático vinculado a la cuenta del usuario. Cada interacción —coger un producto, devolverlo, moverse por la tienda— se registra, interpreta y decide mediante algoritmos. La compra deja de ser un acto puramente físico; ahora es una **coreografía entre el usuario y una infraestructura computacional invisible**.
-
-Desde la perspectiva de Manovich, Amazon Go puede entenderse como un caso claro de **transcodificación**: la realidad se reescribe según la lógica del software. La tienda se convierte en una base de datos dinámica, donde cada objeto es un item rastreable, cada gesto un input y cada decisión un cálculo. La experiencia física se mantiene, pero es completamente reinterpretada por un sistema algorítmico.
-
-Este entorno también muestra una fuerte **automatización**, otro principio clave en Manovich. El proceso de “pasar por caja”, que históricamente implicaba interacción humana, cola y comprobación manual, desaparece. La operación se ejecuta sin intervención humana ni fricción visible. Como usuarios, aceptamos una experiencia más fluida a cambio de ceder una parte significativa de nuestra información y comportamiento.
-
-Además, Amazon Go remedia el supermercado clásico: mantiene elementos anteriores —productos en estantes, carros de compra, movimiento libre—, pero sustituye la mediación humana por un sistema computacional que decide y registra. Siguiendo a Bolter y Grusin, se trata de una **remediación transparente**: la tecnología se oculta para que la experiencia parezca “natural”, cuando en realidad está altamente controlada.
-
-Culturalmente, Amazon Go transforma nuestra relación con el consumo. La ausencia de caja difumina la sensación de gasto inmediato; el pago ocurre lejos del acto mismo de comprar, lo que modifica nuestra percepción del valor y del precio. También redefine la idea de vigilancia: el acto de consumir implica ahora moverse dentro de un espacio que interpreta y registra continuamente nuestro comportamiento. Es, en definitiva, un híbrido donde lo físico y lo digital no solo conviven, sino que se reorganizan mutuamente.
+Mientras BeReal evidencia cómo el software reprograma la temporalidad y la autenticidad en la esfera social, Google Lens muestra cómo la percepción misma del entorno se convierte en un proceso algorítmico. En conjunto, ambos casos confirman que la hibridación no solo reorganiza nuestras prácticas sociales, sino que también reconfigura la manera en que vemos y comprendemos el mundo.
 
 ---
 
-# Caso 2: BeReal – Autenticidad programada y temporalidad algorítmica
+# Caso 1: Google Lens
 
-BeReal surge como respuesta a la hiperestetización de las redes sociales. Plantea una premisa sencilla: una vez al día, la app envía una notificación aleatoria y el usuario tiene dos minutos para tomar una foto simultánea con la cámara frontal y trasera del móvil. Lo que parece un gesto trivial es, en realidad, una práctica profundamente híbrida.
+Google Lens constituye un caso representativo de hibridación de medios en el sentido planteado por Manovich (2013), donde distintos formatos y prácticas culturales se entrelazan bajo la lógica del software. Desde esta perspectiva, la aplicación no se limita a registrar imágenes a través de la cámara del dispositivo móvil, sino que transforma el entorno físico en datos interpretables. En este proceso confluyen la visión artificial, el acceso a bases de datos, el procesamiento del lenguaje y la realidad aumentada, generando una experiencia que redefine cómo nos relacionamos con la información visual.
 
-Por un lado, BeReal retoma elementos de la fotografía tradicional: capturar un momento cotidiano sin edición ni filtros. Por otro, introduce una lógica algorítmica que determina el **cuándo** y el **cómo** de esa captura. El usuario deja de ser quien decide el momento; es el software quien impone el tiempo de representación. Esto convierte la foto en una acción programada, un acto cultural guiado por el algoritmo.
+A diferencia de la fotografía tradicional cuyo propósito principal era ofrecer una representación visual de la realidad, Google Lens convierte la cámara en un dispositivo de lectura e interpretación. De este modo, los objetos, textos, edificios, productos, etc. dejan de ser simples elementos visuales para presentarse como objetos procesables y datos interpretables. Por lo tanto, el mundo físico se reconfigura en una interfaz interactiva que aúna visión, datos y acción.
 
-Desde la perspectiva de Manovich, esto es un caso claro de **automatización parcial de la narrativa personal**. El software define la temporalidad, limita la edición, controla la simultaneidad entre cámaras y dirige la interacción. La promesa de “autenticidad” está mediada por la estructura algorítmica que diseña la experiencia.
+Desde la perspectiva de Manovich (2013), Google Lens ilustra una hibridación profunda de medios. En un solo gesto se articulan prácticas que antes permanecían separadas: la fotografía, la búsqueda en Internet, el reconocimiento de textos (OCR), la traducción automática, la cartografía y la realidad aumentada. Tal como señala el autor al definir los nuevos medios híbridos:
 
-BeReal también puede entenderse como un caso de **remediación**, donde la fotografía clásica se integra en un ecosistema digital de inmediatez, notificación push y lógica de red. La imagen no existe como documento permanente, sino como parte de un flujo temporal que desaparece. Se mantiene la esencia del medio previo —la captura visual—, pero bajo nuevas reglas.
+> “Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones” (Manovich, 2013, p. 214).
 
-Culturalmente, BeReal altera la manera en que entendemos la espontaneidad. La autenticidad ya no surge de la experiencia vivida, sino de responder a una notificación. Esto genera una forma de **temporalidad algorítmica**, donde la vida cotidiana se sincroniza parcialmente con el software. Además, introduce una estética híbrida: imágenes imperfectas, ángulos no pensados, momentos rutinarios que adquieren valor porque el software lo decidió.
+Esta integración no es meramente superficial, sino estructural, puesto que cada imagen capturada se transforma en una consulta dentro de una base de datos global organizada algorítmicamente.
 
-La red social no solo hibrida cámaras y narrativa digital, sino que propone una crítica implícita a otras plataformas. Sin embargo, lo hace desde dentro del ecosistema del software, usando las mismas lógicas que intenta cuestionar: notificaciones, gamificación ligera y comunidad mediada por interfaz.
+Aceptando la idea de que el software no solo representa sino que reestructura la experiencia (transcodificación), Google Lens capta la realidad material y la traduce a la lógica del software, de modo que lo visual se transforma en texto, categorías, enlaces y resultados funcionales. En este punto, la experiencia de mirar se ve alterada porque ya no observamos únicamente para reconocer, sino para activar procesos algorítmicos. La hibridación de medios se hace evidente cuando la cámara deja de ser una herramienta pasiva y se convierte en una interfaz activa que conecta el entorno físico con capas de información digital, redefiniendo la práctica misma de mirar.
 
-En síntesis, BeReal convierte una práctica analógica (tomar fotos espontáneas) en un **dispositivo cultural programado**, donde la autenticidad es un efecto diseñado.
+Además, el sistema introduce una dimensión de automatización cognitiva. Procesos como el reconocimiento de objetos, la traducción de textos o la identificación de lugares se ejecutan sin requerir un esfuerzo consciente por parte del usuario. Así pues, ciertas capacidades tradicionalmente humanas como son reconocer, recordar o buscar, se delegan al software que pasa a redefinir la relación entre percepción y conocimiento.
+
+En el plano cultural, Google Lens logra transformar esas prácticas cotidianas como viajar, estudiar, comprar o aprender. Acciones que antes requerían tiempo como por ejemplo identificar una obra de arte y buscar información sobre ella, se convierten en operaciones con resultados inmediatos. Así pues, el mundo físico pasa a configurarse como un entorno de información disponible en tiempo real.
+
+En este sentido, Google Lens no puede entenderse únicamente como una mejora de la cámara o del buscador, sino como un medio híbrido donde confluyen representación visual, procesamiento algorítmico y experiencia interactiva. La hibridación es evidente porque se trata de una reconfiguración profunda de cómo vemos, interpretamos y nos relacionamos con la realidad.
+
+---
+
+# Caso 2: BeReal
+
+Esta red social surge como respuesta a la hiper estetización de las redes sociales. Plantea una premisa sencilla, publicar una vez al día. La app envía una notificación aleatoria y el usuario tiene dos minutos para tomar una foto simultánea con la cámara frontal y trasera del móvil. Esto que parece un gesto trivial, es en realidad una práctica profundamente híbrida.
+
+Por un lado, BeReal retoma elementos de la fotografía tradicional como es la captura de un momento cotidiano (sin edición ni filtros). Por otro lado, introduce una lógica algorítmica que determina el **cuándo** y el **cómo** de esa captura. El usuario deja de ser quien decide el momento, es el software quien impone el tiempo de representación. Esto convierte la foto en una acción programada, un acto cultural guiado por el algoritmo.
+
+Desde esta perspectiva, es el software el que define la temporalidad, limita la edición, controla la simultaneidad entre cámaras y dirige la interacción. La promesa de “autenticidad” está regulada por la estructura algorítmica que diseña la experiencia.
+
+BeReal también podría entenderse como un caso de remediación, donde la fotografía clásica se integra en un ecosistema digital de inmediatez, notificación push y lógica de red. La imagen no existe como documento permanente, sino como parte de un flujo temporal que desaparece. Se mantiene la esencia del medio (la captura visual), pero bajo nuevas reglas.
+
+Culturalmente, BeReal altera la manera en que entendemos la espontaneidad. La autenticidad ya no surge de la experiencia vivida, sino de responder a una notificación. Esto genera una forma de temporalidad algorítmica donde la vida cotidiana se sincroniza parcialmente con el software. La captura de imágenes imperfectas, tomadas desde ángulos no previstos, convierte momentos rutinarios en experiencias significativas al ser valorizados por el software. De este modo, se pone de manifiesto el concepto de hibridación, donde lo cotidiano adquiere un nuevo sentido bajo la lógica algorítmica.
+
+BeReal no solo integra la cámara con una narrativa digital improvisada, plantea una crítica implícita al funcionamiento y uso de las otras redes sociales. Esta crítica y su correspondiente alternativa, lo plantea desde dentro del mismo ecosistema del software, reproduciendo las lógicas que pretende cuestionar tales como, las notificaciones, el uso de una gamificación ligera y la participación en la comunidad organizada por la interfaz (si no publicas, no puedes ver las publicaciones de otros).
+
+En síntesis, BeReal transforma una práctica analógica como es el hecho de tomar fotografías de manera espontánea, en un dispositivo cultural programado, donde la autenticidad aparece como un efecto orquestado por el software.
 
 ---
 
 # Conclusiones
 
-Tanto Amazon Go como BeReal son ejemplos contemporáneos de hibridación donde lo físico y lo digital se fusionan bajo la lógica del software. En ambos casos, las prácticas previas —comprar y fotografiar— se mantienen, pero se reorganizan profundamente. Amazon Go automatiza procesos invisibles y transforma el espacio físico en un entorno computacional. BeReal redefine la temporalidad de la representación e introduce una espontaneidad guiada por el algoritmo.
+Los casos de Google Lens y BeReal muestran dos formas complementarias en las que la hibridación de medios, tal como la describe Manovich, se manifiesta en la cultura digital contemporánea. En ambos ejemplos, el software no actúa únicamente como una herramienta técnica, sino como un elemento estructural que reorganiza unas prácticas culturales preexistentes.
 
-Estos híbridos confirman la idea central de Manovich: el software no solo media, sino que **estructura la cultura contemporánea**. Las tecnologías no sustituyen a los medios previos, sino que los absorben, reconfiguran y amplían, dando lugar a nuevos modos de interacción que influyen en cómo consumimos, recordamos y nos relacionamos.
+Google Lens evidencia cómo la percepción del entorno físico se convierte en un proceso donde ver implica interpretar, traducir y acceder a capas de información mediadas algorítmicamente. BeReal por su parte, pone de relieve cómo el software programa la temporalidad y la autenticidad en el ámbito social, transformando una práctica cotidiana como la fotografía en un acto cultural regulado por la interfaz y la notificación.
+
+En conjunto, ambos casos confirman que la hibridación no consiste solo en la suma de medios, sino en una reconfiguración profunda de la experiencia, donde lo físico, lo digital y lo cultural se integran bajo la lógica del software.
+
 
 ---
 
-# Bibliografía
+# Bibliografía / Webgrafía
 
-Alberich-Pascual, J. (2018). *Apropiación, remediación e hibridación como técnicas de creación en la cultura digital*. Communication Papers, 7(14), 83–96. https://doi.org/10.33115/udg_bib/cp.v7i14.22073  
+- Manovich, L. (2013). *El software toma el mando*. Editorial UOC.
 
-Bolter, J. D., & Grusin, R. (2011). *Remediation: Comprender los nuevos medios*. Paidós.  
+- Universitat Oberta de Catalunya. (2018). *Elementos de la creatividad multimedia: apropiación, remediación e hibridación*. Mosaic.  
+https://mosaic.uoc.edu/2018/01/18/elementos-de-la-creatividad-multimedia-apropiacion-remediacion-hibridacion/
 
-Manovich, L. (2013). *El software toma el mando*. Editorial UOC y Editorial Planeta.  
+- Google. (s. f.). *Qué es Google Lens y cómo funciona*.  
+https://lens.google/intl/es/howlensworks/
 
-UOC. (2023). *Guía para citar contenidos generados con IA en formato APA*. https://openaccess.uoc.edu/handle/10609/148823
+  - Google. (s. f.). *Google Lens* [Imagen promocional].  
+https://play-lh.googleusercontent.com/swFjFbgTZ7jXLouUyhPnQ7aMnRrpq3JwyQfBuMekCKZMf-dIs8P7WErk_A0t3bRaAIT-=w5120-h2880
+
+- BeReal. (s. f.). *Hora de BeReal*.  
+https://help.bereal.com/hc/es/articles/7350386715165--Hora-de-BeReal
+
+  - BeReal. (s. f.). *BeReal* [Imagen promocional].  
+https://play-lh.googleusercontent.com/OkAN5zNbiB4jvxWYJjgZcu86YNk6BBCFZ5htR2s_-VFsT9y-eknLkLnl1K3sucJZfuo=w5120-h2880
 
 ---
 
 # Declaración de uso de IA
 
-En este trabajo se ha utilizado apoyo puntual de herramientas de inteligencia artificial para:
-
-- revisar la redacción,  
-- estructurar el contenido,  
-- y optimizar la claridad del texto.
-
-No se ha utilizado IA para sustituir el análisis, la argumentación teórica ni la reflexión personal. Todo el contenido conceptual es propio del autor del trabajo.
-
-**Referencia APA de la herramienta:**
-
-OpenAI. (2025). *ChatGPT* [Modelo de lenguaje]. https://chat.openai.com  
