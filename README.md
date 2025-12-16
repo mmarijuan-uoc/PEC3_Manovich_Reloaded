@@ -28,6 +28,8 @@ Mientras BeReal evidencia cómo el software reprograma la temporalidad y la aute
 ---
 
 # Caso 1: Google Lens
+![Interfaz de Google Lens](img/google_lens.png)
+*Imagen oficial de Google Lens. Fuente: Google Play.*
 
 Google Lens constituye un caso representativo de hibridación de medios en el sentido planteado por Manovich (2013), donde distintos formatos y prácticas culturales se entrelazan bajo la lógica del software. Desde esta perspectiva, la aplicación no se limita a registrar imágenes a través de la cámara del dispositivo móvil, sino que transforma el entorno físico en datos interpretables. En este proceso confluyen la visión artificial, el acceso a bases de datos, el procesamiento del lenguaje y la realidad aumentada, generando una experiencia que redefine cómo nos relacionamos con la información visual.
 
@@ -50,6 +52,8 @@ En este sentido, Google Lens no puede entenderse únicamente como una mejora de 
 ---
 
 # Caso 2: BeReal
+![Interfaz de BeReal](img/bereal.png)
+*Imagen oficial de BeReal. Fuente: Google Play.*
 
 Esta red social surge como respuesta a la hiper estetización de las redes sociales. Plantea una premisa sencilla, publicar una vez al día. La app envía una notificación aleatoria y el usuario tiene dos minutos para tomar una foto simultánea con la cámara frontal y trasera del móvil. Esto que parece un gesto trivial, es en realidad una práctica profundamente híbrida.
 
