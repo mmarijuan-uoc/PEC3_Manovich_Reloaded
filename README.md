@@ -1,7 +1,6 @@
 # PEC3 – Manovich Reloaded:
 ## Google Lens y BeReal o cómo mirar y compartir bajo la lógica del software  
-### Grado de Multimedia - UOC (2025)
-### 20.644 - Cultura Digital (Aula 1)
+### Grado de Multimedia: 20.644 - Cultura Digital (Aula 1) - UOC (2025)
 Alumno: Mariano Marijuán Ruiz
 
 ---
