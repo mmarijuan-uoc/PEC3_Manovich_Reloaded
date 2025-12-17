@@ -6,12 +6,14 @@ Alumno: Mariano Marijuán Ruiz
 ---
 
 ## Índice
+
 1. [Introducción](#introducción)  
-2. [Caso 1: Amazon Go – Cuando la tienda física se convierte en un algoritmo](#caso-1-amazon-go--cuando-la-tienda-física-se-convierte-en-un-algoritmo)  
-3. [Caso 2: BeReal – Autenticidad programada y temporalidad algorítmica](#caso-2-bereal--autenticidad-programada-y-temporalidad-algorítmica)  
+2. [Caso 1: Google Lens](#caso-1-google-lens)  
+3. [Caso 2: BeReal](#caso-2-bereal)  
 4. [Conclusiones](#conclusiones)  
 5. [Bibliografía](#bibliografía)  
 6. [Declaración de uso de IA](#declaración-de-uso-de-ia)
+
 
 ---
 
@@ -104,4 +106,4 @@ https://play-lh.googleusercontent.com/OkAN5zNbiB4jvxWYJjgZcu86YNk6BBCFZ5htR2s_-V
 ---
 
 # Declaración de uso de IA
-
+En la elaboración de este trabajo he utilizado ChatGPT (OpenAI, 2025) para la revisión sintáctica del contenido del ensayo. Esto me ayudó a eliminar alguna "coletilla" y repeticiones innecesarios de algunos conceptos. En ningún caso su uso ha servido para la generación parcial o total de la redacción de este ensayo.
