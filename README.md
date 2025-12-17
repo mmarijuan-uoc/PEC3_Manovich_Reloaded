@@ -1,4 +1,5 @@
-# PEC3 – Manovich Reloaded: Amazon Go y BeReal como híbridos contemporáneos  
+# PEC3 – Manovich Reloaded:
+## Google Lens y BeReal o cómo mirar y compartir bajo la lógica del software  
 ### Grado de Multimedia - UOC (2025)
 ### 20.644 - Cultura Digital (Aula 1)
 Alumno: Mariano Marijuán Ruiz
@@ -11,13 +12,13 @@ Alumno: Mariano Marijuán Ruiz
 2. [Caso 1: Google Lens](#caso-1-google-lens)  
 3. [Caso 2: BeReal](#caso-2-bereal)  
 4. [Conclusiones](#conclusiones)  
-5. [Bibliografía](#bibliografía)  
+5. [Bibliografía / Webgrafía](#bibliografía--webgrafía)  
 6. [Declaración de uso de IA](#declaración-de-uso-de-ia)
 
 
 ---
 
-# Introducción
+# Introducción 
 
 Vivimos rodeados de medios híbridos, experiencias que mezclan lo físico y lo digital y que están apoyadas en un software diseñado para convertir las acciones cotidianas en información procesable mediante procesos automatizados. Siguiendo la tesis de Lev Manovich en *El software toma el mando* (2013), el software no solo representa sino que reorganiza nuestras prácticas culturales y fusiona antiguas formas de interacción en nuevas lógicas estructuradas por los algoritmos. 
 
