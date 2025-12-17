@@ -1,6 +1,6 @@
 # PEC3 – Manovich Reloaded:
 ## Google Lens y BeReal o cómo mirar y compartir bajo la lógica del software  
-### Grado de Multimedia: 20.644 - Cultura Digital (Aula 1) - UOC (2025)
+### Grado de Multimedia - Cultura Digital (Aula 1) - UOC (2025)
 Alumno: Mariano Marijuán Ruiz
 
 ---
@@ -106,4 +106,4 @@ https://play-lh.googleusercontent.com/OkAN5zNbiB4jvxWYJjgZcu86YNk6BBCFZ5htR2s_-V
 ---
 
 # Declaración de uso de IA
-En la elaboración de este trabajo he utilizado ChatGPT (OpenAI, 2025) para la revisión sintáctica del contenido del ensayo. Esto me ayudó a eliminar alguna "coletilla" y repeticiones innecesarios de algunos conceptos. En ningún caso su uso ha servido para la generación parcial o total de la redacción de este ensayo.
+En la elaboración de este trabajo he utilizado Gemini (Google) para la revisión sintáctica del contenido del ensayo. Esto me ayudó a eliminar alguna "coletilla" y repeticiones innecesarias de algunos conceptos. En ningún caso su uso ha servido para la generación parcial o total de la redacción de este ensayo.
